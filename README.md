@@ -32,7 +32,7 @@ Follow these steps to set up the Chat Application locally:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/ccorte20/Next.js-Tailwind-CSS-Chat.git
+git clone https://github.com/volodymyr1116/Next.js-Tailwind-CSS-Chat.git
 cd chat-application
 ```
 
